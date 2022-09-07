@@ -75,7 +75,9 @@ def info_read_from_excel():
         print("{} 替换完成".format(file))
         print("pptest")
         print("sealtest, test webhook push")
-
+        
+def bar():
+    print("test plugin")
 
 if __name__ == '__main__':
     info_read_from_excel()
