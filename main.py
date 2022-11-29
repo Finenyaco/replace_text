@@ -73,7 +73,11 @@ def info_read_from_excel():
         doc.save("替换结果/{}".format(file.split("/")[-1]))
         # doc.save("替换结果/{}".format(file.split("\\")[-1]))
         print("{} 替换完成".format(file))
-
+        print("pptest hhhhh")
+        print("sealtest, test webhook push")
+        
+def bar():
+    print("test plugin")
 
 if __name__ == '__main__':
     info_read_from_excel()
