@@ -18,3 +18,4 @@ evaluation result
 
 verify
 pr test
+aws
