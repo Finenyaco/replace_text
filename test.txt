@@ -12,7 +12,7 @@ push
 test webhook
 test webhook push
 
-test pr
+test pr 3333
 evaluation result
 11111
 
