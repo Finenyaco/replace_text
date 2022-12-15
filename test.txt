@@ -9,7 +9,7 @@ test branch push
 reopen pr
 test branch
 
-test pr
+test pr yes pp
 111111
 222222
 333333333
