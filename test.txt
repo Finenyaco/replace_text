@@ -22,4 +22,4 @@ aws test this is a testing
 hhh xixi
 awsl urmyp
 you
-
+resource settings
